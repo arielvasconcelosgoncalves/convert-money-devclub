@@ -46,7 +46,7 @@ O objetivo é criar uma aplicação simples de **conversão de moedas** utilizan
 
 ## 🖼️ Preview
 
-
+![Preview do Site](assets/convert-money-devclub.png)
 ---
 
 ## ⚙️ Como executar
